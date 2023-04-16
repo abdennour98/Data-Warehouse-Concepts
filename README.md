@@ -7,3 +7,5 @@ I'll  write this article in order to clarify the difference between Kimball arch
 
 
 ### Kimball's architecture ( dimensional Modeling)
+
+![image](https://user-images.githubusercontent.com/58523013/232321075-19afe81c-f5d2-4606-a304-3342d47370c6.png)
