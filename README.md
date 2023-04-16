@@ -24,3 +24,4 @@ I'll  write this article in order to clarify the difference between Kimball arch
 * The model does not help strategic decision-making. As decision-making requires all informations and indicators for each department
 
 ### Inmon's architecture ( Enterprise Modeling)
+![image](https://user-images.githubusercontent.com/58523013/232321542-e434e70d-4650-4616-b596-b703af0ecbbe.png)
