@@ -20,7 +20,5 @@ I'll  write this article in order to clarify the difference between Kimball arch
 ### desadvantages of kimball's pardigm
 
 * Lose the idea of a single source of truth because the entire data warehouse isn't fully integrated.
-<br>
 * redundant data(dénormalization) added to the model because Kimball is based in a business so we can find a common data between two subjects .
-<br>
 * The model does not help strategic decision-making. As decision-making requires all informations and indicators for each department
