@@ -13,5 +13,7 @@ I'll  write this article in order to clarify the difference between Kimball arch
 <br>
 
 -Kimball Focus adds Business value throughout the enterprise, meaning that if an enterprise has a business for example sales, it has only create a data Mart to provide reporting and analytical capabilities for these Sales.
+<br>
 -Kimball is suitable for organizations and enterprises which  have many changes: start-ups, small, medium companies, and companies want to go fast.
+<br>
 -Kimball works well in the agile and quick delivery for the business which means we don't need to create the whole infrastructure to get value  to user.
