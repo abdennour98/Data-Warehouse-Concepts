@@ -12,8 +12,16 @@ I'll  write this article in order to clarify the difference between Kimball arch
 
 <br>
 
--Kimball Focus adds Business value throughout the enterprise, meaning that if an enterprise has a business for example sales, it has only create a data Mart to provide reporting and analytical capabilities for these Sales.
+- Kimball Focus adds Business value throughout the enterprise, meaning that if an enterprise has a business for example sales, it has only create a data Mart to provide reporting and analytical capabilities for these Sales.
 <br>
--Kimball is suitable for organizations and enterprises which  have many changes: start-ups, small, medium companies, and companies want to go fast.
+- Kimball is suitable for organizations and enterprises which  have many changes: start-ups, small, medium companies, and companies want to go fast.
 <br>
--Kimball works well in the agile and quick delivery for the business which means we don't need to create the whole infrastructure to get value  to user.
+- Kimball works well in the agile and quick delivery for the business which means we don't need to create the whole infrastructure to get value  to user.
+
+### desadvantages of kimball's pardigm
+
+* Lose the idea of a single source of truth because the entire data warehouse isn't fully integrated.
+<br>
+* redundant data(dénormalization) added to the model because Kimball is based in a business so we can find a common data between two subjects .
+<br>
+* The model does not help strategic decision-making. As decision-making requires all informations and indicators for each department
