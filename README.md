@@ -1,1 +1,1 @@
-# Inmon-vs-Kimball
+## Kimball architecture Vs Inmon Architecture
